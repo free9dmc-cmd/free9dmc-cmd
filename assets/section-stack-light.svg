@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1600 110" width="1600" height="110" role="img" aria-labelledby="t d">
+  <title id="t">Toolkit</title>
+  <desc id="d"></desc>
+  <defs><linearGradient id="hl" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#9a7520" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#c9a54a"/>
+    <stop offset="1" stop-color="#9a7520" stop-opacity="1"/>
+  </linearGradient><linearGradient id="hr" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#9a7520" stop-opacity="1"/>
+    <stop offset="0.5" stop-color="#c9a54a"/>
+    <stop offset="1" stop-color="#9a7520" stop-opacity="0"/>
+  </linearGradient><path id="g-sansSemibold-93" d="M543-1265L83-1265L83-1490L1269-1490L1269-1265L810-1265L810 0L543 0L543-1265Z"/><path id="g-sansSemibold-66" d="M788 20L788 20Q592 20 437-71Q282-162 193-333Q103-504 103-744L103-744Q103-985 193-1157Q282-1328 437-1419Q592-1510 788-1510L788-1510Q983-1510 1138-1419Q1292-1328 1382-1157Q1471-985 1471-744L1471-744Q1471-504 1382-333Q1292-161 1138-71Q983 20 788 20ZM788-219L788-219Q909-219 1003-280Q1096-340 1149-458Q1202-575 1202-744L1202-744Q1202-915 1149-1033Q1096-1150 1003-1211Q909-1271 788-1271L788-1271Q666-1271 572-1210Q478-1149 425-1032Q371-914 371-744L371-744Q371-575 425-458Q478-341 572-280Q666-219 788-219Z"/><path id="g-sansSemibold-55" d="M1075 0L150 0L150-1490L417-1490L417-225L1075-225L1075 0Z"/><path id="g-sansSemibold-52" d="M417 0L150 0L150-1490L417-1490L417-1048L413-729Q425-748 438-767L438-767Q484-835 537-902Q589-969 654-1044L654-1044L1045-1490L1377-1490L805-845L1387 0L1072 0L620-669L417-448L417 0Z"/><path id="g-sansSemibold-41" d="M150-1490L417-1490L417 0L150 0L150-1490Z"/></defs>
+  <rect x="289.02619140625006" y="59.25" width="340" height="1.5" fill="url(#hl)"/>
+  <rect x="970.9738085937499" y="59.25" width="340" height="1.5" fill="url(#hr)"/>
+  <path d="M629.0261914062501 55L634.0261914062501 60L629.0261914062501 65L624.0261914062501 60Z" fill="#9a7520"/><path d="M970.9738085937499 55L975.9738085937499 60L970.9738085937499 65L965.9738085937499 60Z" fill="#9a7520"/><g fill="#9a7520"><use xlink:href="#g-sansSemibold-93" transform="translate(673 74) scale(0.01855)"/><use xlink:href="#g-sansSemibold-66" transform="translate(712.6 74) scale(0.01855)"/><use xlink:href="#g-sansSemibold-66" transform="translate(756.2 74) scale(0.01855)"/><use xlink:href="#g-sansSemibold-55" transform="translate(799.8 74) scale(0.01855)"/><use xlink:href="#g-sansSemibold-52" transform="translate(835.8 74) scale(0.01855)"/><use xlink:href="#g-sansSemibold-41" transform="translate(876.9 74) scale(0.01855)"/><use xlink:href="#g-sansSemibold-93" transform="translate(901.9 74) scale(0.01855)"/></g>
+</svg>
